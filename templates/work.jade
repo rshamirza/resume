@@ -1,2 +1,18 @@
 h3 Work Experiences
-p (todo)
+table.u-full-width   
+  each work in contents['work.json'].metadata 
+    thead
+      tr
+        th= work.name
+        th= work.detail
+    tbody
+      tr
+        td(width="25%")= work.year
+        td= ul 
+                li= work.tasks1
+                li= work.tasks2
+                li= work.tasks3
+                if work.tasks4 != ""
+                        li= work.tasks4
+                if work.tasks5 != ""
+                        li= work.tasks5

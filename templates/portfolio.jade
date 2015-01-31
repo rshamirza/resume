@@ -1,8 +1,14 @@
 h3 Portfolio
 each item in contents['portfolio.json'].metadata     
-  h4= item.title
+  b 
+  b= item.title
   div.row
-    div.three.columns
-      img(src='images/' + item.image)
+    div.two.columns 
+      br
+      img(height="150" width="100" src='images/' + item.image)
+      br
+      br
     div.seven.columns
+      br
+      br
       = item.description

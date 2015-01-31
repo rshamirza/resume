@@ -1,1 +1,17 @@
-[]
+[{
+    "degree": "Master Degree in Computer Science (CS)",
+    "school": "University of Colorado Boulder",
+    "city": "Boulder, Colorado, USA",
+    "year": "Expected in May 2015"
+},{
+    "degree": "Certificate of Completion Intensive English Program",
+    "school": "University of Denver",
+    "city": "Denver, Colorado, USA",
+    "year": "2013"
+},
+{
+    "degree": "Bachelor Degree in Computer Science (CS)",
+    "school": "King Abdulaziz University",
+    "city": "Jeddah, Saudi Arabia",
+    "year": "2007"
+}]

@@ -1,0 +1,19 @@
+[{
+    "name": "Demonstrator",
+    "year": "January 2010 - Present",
+    "detail": "King Abdul-Aziza University, Jeddah, Saudi Arabia.",
+    "tasks1": "Evaluating existing applications in order to enhance and improve them.",
+    "tasks2": "Developing web applications for employees using IBM Lotus Notes application.",
+    "tasks3": "Creating customized web portal using JDeveloper 11g and WebCenter application.",
+    "tasks4": "",
+    "tasks5": ""
+}, {
+    "name": "Programmer",
+    "year": "June 2007 - January 2010",
+    "detail": "Zahid Tractors Co. Ltd, Jeddah, Saudi Arabia",
+    "tasks1": "Analyzed, developed and managed databases on IBM Lotus Notes application using Formula, LotusScript, HTML, CSS, and JavaScript.",
+    "tasks2": "Transformed existing client based application into web based application.",
+    "tasks3": "Built integration to existing databases using WebSphere Portlet Factory Designer.",
+    "tasks4": "Provided technical support for employees and troubleshooted applications’ issues.",
+    "tasks5": "Trained University's students on IBM Lotus Notes Application."
+}]
