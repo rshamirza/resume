@@ -1,6 +1,7 @@
 [{
     "name": "Demonstrator",
     "year": "January 2010 - Present",
+    "image": "5.png",
     "detail": "King Abdul-Aziza University, Jeddah, Saudi Arabia.",
     "tasks1": "Evaluating existing applications in order to enhance and improve them.",
     "tasks2": "Developing web applications for employees using IBM Lotus Notes application.",
@@ -10,6 +11,7 @@
 }, {
     "name": "Programmer",
     "year": "June 2007 - January 2010",
+    "image": "4.png",
     "detail": "Zahid Tractors Co. Ltd, Jeddah, Saudi Arabia",
     "tasks1": "Analyzed, developed and managed databases on IBM Lotus Notes application using Formula, LotusScript, HTML, CSS, and JavaScript.",
     "tasks2": "Transformed existing client based application into web based application.",

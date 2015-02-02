@@ -7,7 +7,11 @@ table.u-full-width
         th= work.detail
     tbody
       tr
-        td(width="25%")= work.year
+        td(width="25%")
+            div(align="center")
+                = work.year
+                img(height="80" width="120" src='images/' + work.image)
+                br
         td= ul 
                 li= work.tasks1
                 li= work.tasks2
@@ -16,3 +20,4 @@ table.u-full-width
                         li= work.tasks4
                 if work.tasks5 != ""
                         li= work.tasks5
+    
